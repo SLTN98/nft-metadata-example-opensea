@@ -1,0 +1,452 @@
+[
+  {
+    "name": "CrispyFriesNFT #1",
+    "description": "Crunchy Fries is a collection of 10,000 randomly generated NFTs. Deep-fried in fat with the utmost care. Not oven fries.",
+    "edition": 1,
+    "seller_fee_basis_points": 1000,
+    "fee_recipient": "0x49063aA48A3F0cE8e76fd92930Ae872500d45C2b",
+    "image": "image.png",
+    "external_link": "https://scholten.rocks/"
+  },
+  {
+    "name": "CrispyFriesNFT #2",
+    "description": "Crunchy Fries is a collection of 10,000 randomly generated NFTs. Deep-fried in fat with the utmost care. Not oven fries.",
+    "edition": 2,
+    "seller_fee_basis_points": 1000,
+    "fee_recipient": "0x49063aA48A3F0cE8e76fd92930Ae872500d45C2b",
+    "image": "image.png",
+    "external_link": "https://scholten.rocks/"
+  },
+  {
+    "name": "CrispyFriesNFT #3",
+    "description": "Crunchy Fries is a collection of 10,000 randomly generated NFTs. Deep-fried in fat with the utmost care. Not oven fries.",
+    "edition": 3,
+    "seller_fee_basis_points": 1000,
+    "fee_recipient": "0x49063aA48A3F0cE8e76fd92930Ae872500d45C2b",
+    "image": "image.png",
+    "external_link": "https://scholten.rocks/"
+  },
+  {
+    "name": "CrispyFriesNFT #4",
+    "description": "Crunchy Fries is a collection of 10,000 randomly generated NFTs. Deep-fried in fat with the utmost care. Not oven fries.",
+    "edition": 4,
+    "seller_fee_basis_points": 1000,
+    "fee_recipient": "0x49063aA48A3F0cE8e76fd92930Ae872500d45C2b",
+    "image": "image.png",
+    "external_link": "https://scholten.rocks/"
+  },
+  {
+    "name": "CrispyFriesNFT #5",
+    "description": "Crunchy Fries is a collection of 10,000 randomly generated NFTs. Deep-fried in fat with the utmost care. Not oven fries.",
+    "edition": 5,
+    "seller_fee_basis_points": 1000,
+    "fee_recipient": "0x49063aA48A3F0cE8e76fd92930Ae872500d45C2b",
+    "image": "image.png",
+    "external_link": "https://scholten.rocks/"
+  },
+  {
+    "name": "CrispyFriesNFT #6",
+    "description": "Crunchy Fries is a collection of 10,000 randomly generated NFTs. Deep-fried in fat with the utmost care. Not oven fries.",
+    "edition": 6,
+    "seller_fee_basis_points": 1000,
+    "fee_recipient": "0x49063aA48A3F0cE8e76fd92930Ae872500d45C2b",
+    "image": "image.png",
+    "external_link": "https://scholten.rocks/"
+  },
+  {
+    "name": "CrispyFriesNFT #7",
+    "description": "Crunchy Fries is a collection of 10,000 randomly generated NFTs. Deep-fried in fat with the utmost care. Not oven fries.",
+    "edition": 7,
+    "seller_fee_basis_points": 1000,
+    "fee_recipient": "0x49063aA48A3F0cE8e76fd92930Ae872500d45C2b",
+    "image": "image.png",
+    "external_link": "https://scholten.rocks/"
+  },
+  {
+    "name": "CrispyFriesNFT #8",
+    "description": "Crunchy Fries is a collection of 10,000 randomly generated NFTs. Deep-fried in fat with the utmost care. Not oven fries.",
+    "edition": 8,
+    "seller_fee_basis_points": 1000,
+    "fee_recipient": "0x49063aA48A3F0cE8e76fd92930Ae872500d45C2b",
+    "image": "image.png",
+    "external_link": "https://scholten.rocks/"
+  },
+  {
+    "name": "CrispyFriesNFT #9",
+    "description": "Crunchy Fries is a collection of 10,000 randomly generated NFTs. Deep-fried in fat with the utmost care. Not oven fries.",
+    "edition": 9,
+    "seller_fee_basis_points": 1000,
+    "fee_recipient": "0x49063aA48A3F0cE8e76fd92930Ae872500d45C2b",
+    "image": "image.png",
+    "external_link": "https://scholten.rocks/"
+  },
+  {
+    "name": "CrispyFriesNFT #10",
+    "description": "Crunchy Fries is a collection of 10,000 randomly generated NFTs. Deep-fried in fat with the utmost care. Not oven fries.",
+    "edition": 10,
+    "seller_fee_basis_points": 1000,
+    "fee_recipient": "0x49063aA48A3F0cE8e76fd92930Ae872500d45C2b",
+    "image": "image.png",
+    "external_link": "https://scholten.rocks/"
+  },
+  {
+    "name": "CrispyFriesNFT #11",
+    "description": "Crunchy Fries is a collection of 10,000 randomly generated NFTs. Deep-fried in fat with the utmost care. Not oven fries.",
+    "edition": 11,
+    "seller_fee_basis_points": 1000,
+    "fee_recipient": "0x49063aA48A3F0cE8e76fd92930Ae872500d45C2b",
+    "image": "image.png",
+    "external_link": "https://scholten.rocks/"
+  },
+  {
+    "name": "CrispyFriesNFT #12",
+    "description": "Crunchy Fries is a collection of 10,000 randomly generated NFTs. Deep-fried in fat with the utmost care. Not oven fries.",
+    "edition": 12,
+    "seller_fee_basis_points": 1000,
+    "fee_recipient": "0x49063aA48A3F0cE8e76fd92930Ae872500d45C2b",
+    "image": "image.png",
+    "external_link": "https://scholten.rocks/"
+  },
+  {
+    "name": "CrispyFriesNFT #13",
+    "description": "Crunchy Fries is a collection of 10,000 randomly generated NFTs. Deep-fried in fat with the utmost care. Not oven fries.",
+    "edition": 13,
+    "seller_fee_basis_points": 1000,
+    "fee_recipient": "0x49063aA48A3F0cE8e76fd92930Ae872500d45C2b",
+    "image": "image.png",
+    "external_link": "https://scholten.rocks/"
+  },
+  {
+    "name": "CrispyFriesNFT #14",
+    "description": "Crunchy Fries is a collection of 10,000 randomly generated NFTs. Deep-fried in fat with the utmost care. Not oven fries.",
+    "edition": 14,
+    "seller_fee_basis_points": 1000,
+    "fee_recipient": "0x49063aA48A3F0cE8e76fd92930Ae872500d45C2b",
+    "image": "image.png",
+    "external_link": "https://scholten.rocks/"
+  },
+  {
+    "name": "CrispyFriesNFT #15",
+    "description": "Crunchy Fries is a collection of 10,000 randomly generated NFTs. Deep-fried in fat with the utmost care. Not oven fries.",
+    "edition": 15,
+    "seller_fee_basis_points": 1000,
+    "fee_recipient": "0x49063aA48A3F0cE8e76fd92930Ae872500d45C2b",
+    "image": "image.png",
+    "external_link": "https://scholten.rocks/"
+  },
+  {
+    "name": "CrispyFriesNFT #16",
+    "description": "Crunchy Fries is a collection of 10,000 randomly generated NFTs. Deep-fried in fat with the utmost care. Not oven fries.",
+    "edition": 16,
+    "seller_fee_basis_points": 1000,
+    "fee_recipient": "0x49063aA48A3F0cE8e76fd92930Ae872500d45C2b",
+    "image": "image.png",
+    "external_link": "https://scholten.rocks/"
+  },
+  {
+    "name": "CrispyFriesNFT #17",
+    "description": "Crunchy Fries is a collection of 10,000 randomly generated NFTs. Deep-fried in fat with the utmost care. Not oven fries.",
+    "edition": 17,
+    "seller_fee_basis_points": 1000,
+    "fee_recipient": "0x49063aA48A3F0cE8e76fd92930Ae872500d45C2b",
+    "image": "image.png",
+    "external_link": "https://scholten.rocks/"
+  },
+  {
+    "name": "CrispyFriesNFT #18",
+    "description": "Crunchy Fries is a collection of 10,000 randomly generated NFTs. Deep-fried in fat with the utmost care. Not oven fries.",
+    "edition": 18,
+    "seller_fee_basis_points": 1000,
+    "fee_recipient": "0x49063aA48A3F0cE8e76fd92930Ae872500d45C2b",
+    "image": "image.png",
+    "external_link": "https://scholten.rocks/"
+  },
+  {
+    "name": "CrispyFriesNFT #19",
+    "description": "Crunchy Fries is a collection of 10,000 randomly generated NFTs. Deep-fried in fat with the utmost care. Not oven fries.",
+    "edition": 19,
+    "seller_fee_basis_points": 1000,
+    "fee_recipient": "0x49063aA48A3F0cE8e76fd92930Ae872500d45C2b",
+    "image": "image.png",
+    "external_link": "https://scholten.rocks/"
+  },
+  {
+    "name": "CrispyFriesNFT #20",
+    "description": "Crunchy Fries is a collection of 10,000 randomly generated NFTs. Deep-fried in fat with the utmost care. Not oven fries.",
+    "edition": 20,
+    "seller_fee_basis_points": 1000,
+    "fee_recipient": "0x49063aA48A3F0cE8e76fd92930Ae872500d45C2b",
+    "image": "image.png",
+    "external_link": "https://scholten.rocks/"
+  },
+  {
+    "name": "CrispyFriesNFT #21",
+    "description": "Crunchy Fries is a collection of 10,000 randomly generated NFTs. Deep-fried in fat with the utmost care. Not oven fries.",
+    "edition": 21,
+    "seller_fee_basis_points": 1000,
+    "fee_recipient": "0x49063aA48A3F0cE8e76fd92930Ae872500d45C2b",
+    "image": "image.png",
+    "external_link": "https://scholten.rocks/"
+  },
+  {
+    "name": "CrispyFriesNFT #22",
+    "description": "Crunchy Fries is a collection of 10,000 randomly generated NFTs. Deep-fried in fat with the utmost care. Not oven fries.",
+    "edition": 22,
+    "seller_fee_basis_points": 1000,
+    "fee_recipient": "0x49063aA48A3F0cE8e76fd92930Ae872500d45C2b",
+    "image": "image.png",
+    "external_link": "https://scholten.rocks/"
+  },
+  {
+    "name": "CrispyFriesNFT #23",
+    "description": "Crunchy Fries is a collection of 10,000 randomly generated NFTs. Deep-fried in fat with the utmost care. Not oven fries.",
+    "edition": 23,
+    "seller_fee_basis_points": 1000,
+    "fee_recipient": "0x49063aA48A3F0cE8e76fd92930Ae872500d45C2b",
+    "image": "image.png",
+    "external_link": "https://scholten.rocks/"
+  },
+  {
+    "name": "CrispyFriesNFT #24",
+    "description": "Crunchy Fries is a collection of 10,000 randomly generated NFTs. Deep-fried in fat with the utmost care. Not oven fries.",
+    "edition": 24,
+    "seller_fee_basis_points": 1000,
+    "fee_recipient": "0x49063aA48A3F0cE8e76fd92930Ae872500d45C2b",
+    "image": "image.png",
+    "external_link": "https://scholten.rocks/"
+  },
+  {
+    "name": "CrispyFriesNFT #25",
+    "description": "Crunchy Fries is a collection of 10,000 randomly generated NFTs. Deep-fried in fat with the utmost care. Not oven fries.",
+    "edition": 25,
+    "seller_fee_basis_points": 1000,
+    "fee_recipient": "0x49063aA48A3F0cE8e76fd92930Ae872500d45C2b",
+    "image": "image.png",
+    "external_link": "https://scholten.rocks/"
+  },
+  {
+    "name": "CrispyFriesNFT #26",
+    "description": "Crunchy Fries is a collection of 10,000 randomly generated NFTs. Deep-fried in fat with the utmost care. Not oven fries.",
+    "edition": 26,
+    "seller_fee_basis_points": 1000,
+    "fee_recipient": "0x49063aA48A3F0cE8e76fd92930Ae872500d45C2b",
+    "image": "image.png",
+    "external_link": "https://scholten.rocks/"
+  },
+  {
+    "name": "CrispyFriesNFT #27",
+    "description": "Crunchy Fries is a collection of 10,000 randomly generated NFTs. Deep-fried in fat with the utmost care. Not oven fries.",
+    "edition": 27,
+    "seller_fee_basis_points": 1000,
+    "fee_recipient": "0x49063aA48A3F0cE8e76fd92930Ae872500d45C2b",
+    "image": "image.png",
+    "external_link": "https://scholten.rocks/"
+  },
+  {
+    "name": "CrispyFriesNFT #28",
+    "description": "Crunchy Fries is a collection of 10,000 randomly generated NFTs. Deep-fried in fat with the utmost care. Not oven fries.",
+    "edition": 28,
+    "seller_fee_basis_points": 1000,
+    "fee_recipient": "0x49063aA48A3F0cE8e76fd92930Ae872500d45C2b",
+    "image": "image.png",
+    "external_link": "https://scholten.rocks/"
+  },
+  {
+    "name": "CrispyFriesNFT #29",
+    "description": "Crunchy Fries is a collection of 10,000 randomly generated NFTs. Deep-fried in fat with the utmost care. Not oven fries.",
+    "edition": 29,
+    "seller_fee_basis_points": 1000,
+    "fee_recipient": "0x49063aA48A3F0cE8e76fd92930Ae872500d45C2b",
+    "image": "image.png",
+    "external_link": "https://scholten.rocks/"
+  },
+  {
+    "name": "CrispyFriesNFT #30",
+    "description": "Crunchy Fries is a collection of 10,000 randomly generated NFTs. Deep-fried in fat with the utmost care. Not oven fries.",
+    "edition": 30,
+    "seller_fee_basis_points": 1000,
+    "fee_recipient": "0x49063aA48A3F0cE8e76fd92930Ae872500d45C2b",
+    "image": "image.png",
+    "external_link": "https://scholten.rocks/"
+  },
+  {
+    "name": "CrispyFriesNFT #31",
+    "description": "Crunchy Fries is a collection of 10,000 randomly generated NFTs. Deep-fried in fat with the utmost care. Not oven fries.",
+    "edition": 31,
+    "seller_fee_basis_points": 1000,
+    "fee_recipient": "0x49063aA48A3F0cE8e76fd92930Ae872500d45C2b",
+    "image": "image.png",
+    "external_link": "https://scholten.rocks/"
+  },
+  {
+    "name": "CrispyFriesNFT #32",
+    "description": "Crunchy Fries is a collection of 10,000 randomly generated NFTs. Deep-fried in fat with the utmost care. Not oven fries.",
+    "edition": 32,
+    "seller_fee_basis_points": 1000,
+    "fee_recipient": "0x49063aA48A3F0cE8e76fd92930Ae872500d45C2b",
+    "image": "image.png",
+    "external_link": "https://scholten.rocks/"
+  },
+  {
+    "name": "CrispyFriesNFT #33",
+    "description": "Crunchy Fries is a collection of 10,000 randomly generated NFTs. Deep-fried in fat with the utmost care. Not oven fries.",
+    "edition": 33,
+    "seller_fee_basis_points": 1000,
+    "fee_recipient": "0x49063aA48A3F0cE8e76fd92930Ae872500d45C2b",
+    "image": "image.png",
+    "external_link": "https://scholten.rocks/"
+  },
+  {
+    "name": "CrispyFriesNFT #34",
+    "description": "Crunchy Fries is a collection of 10,000 randomly generated NFTs. Deep-fried in fat with the utmost care. Not oven fries.",
+    "edition": 34,
+    "seller_fee_basis_points": 1000,
+    "fee_recipient": "0x49063aA48A3F0cE8e76fd92930Ae872500d45C2b",
+    "image": "image.png",
+    "external_link": "https://scholten.rocks/"
+  },
+  {
+    "name": "CrispyFriesNFT #35",
+    "description": "Crunchy Fries is a collection of 10,000 randomly generated NFTs. Deep-fried in fat with the utmost care. Not oven fries.",
+    "edition": 35,
+    "seller_fee_basis_points": 1000,
+    "fee_recipient": "0x49063aA48A3F0cE8e76fd92930Ae872500d45C2b",
+    "image": "image.png",
+    "external_link": "https://scholten.rocks/"
+  },
+  {
+    "name": "CrispyFriesNFT #36",
+    "description": "Crunchy Fries is a collection of 10,000 randomly generated NFTs. Deep-fried in fat with the utmost care. Not oven fries.",
+    "edition": 36,
+    "seller_fee_basis_points": 1000,
+    "fee_recipient": "0x49063aA48A3F0cE8e76fd92930Ae872500d45C2b",
+    "image": "image.png",
+    "external_link": "https://scholten.rocks/"
+  },
+  {
+    "name": "CrispyFriesNFT #37",
+    "description": "Crunchy Fries is a collection of 10,000 randomly generated NFTs. Deep-fried in fat with the utmost care. Not oven fries.",
+    "edition": 37,
+    "seller_fee_basis_points": 1000,
+    "fee_recipient": "0x49063aA48A3F0cE8e76fd92930Ae872500d45C2b",
+    "image": "image.png",
+    "external_link": "https://scholten.rocks/"
+  },
+  {
+    "name": "CrispyFriesNFT #38",
+    "description": "Crunchy Fries is a collection of 10,000 randomly generated NFTs. Deep-fried in fat with the utmost care. Not oven fries.",
+    "edition": 38,
+    "seller_fee_basis_points": 1000,
+    "fee_recipient": "0x49063aA48A3F0cE8e76fd92930Ae872500d45C2b",
+    "image": "image.png",
+    "external_link": "https://scholten.rocks/"
+  },
+  {
+    "name": "CrispyFriesNFT #39",
+    "description": "Crunchy Fries is a collection of 10,000 randomly generated NFTs. Deep-fried in fat with the utmost care. Not oven fries.",
+    "edition": 39,
+    "seller_fee_basis_points": 1000,
+    "fee_recipient": "0x49063aA48A3F0cE8e76fd92930Ae872500d45C2b",
+    "image": "image.png",
+    "external_link": "https://scholten.rocks/"
+  },
+  {
+    "name": "CrispyFriesNFT #40",
+    "description": "Crunchy Fries is a collection of 10,000 randomly generated NFTs. Deep-fried in fat with the utmost care. Not oven fries.",
+    "edition": 40,
+    "seller_fee_basis_points": 1000,
+    "fee_recipient": "0x49063aA48A3F0cE8e76fd92930Ae872500d45C2b",
+    "image": "image.png",
+    "external_link": "https://scholten.rocks/"
+  },
+  {
+    "name": "CrispyFriesNFT #41",
+    "description": "Crunchy Fries is a collection of 10,000 randomly generated NFTs. Deep-fried in fat with the utmost care. Not oven fries.",
+    "edition": 41,
+    "seller_fee_basis_points": 1000,
+    "fee_recipient": "0x49063aA48A3F0cE8e76fd92930Ae872500d45C2b",
+    "image": "image.png",
+    "external_link": "https://scholten.rocks/"
+  },
+  {
+    "name": "CrispyFriesNFT #42",
+    "description": "Crunchy Fries is a collection of 10,000 randomly generated NFTs. Deep-fried in fat with the utmost care. Not oven fries.",
+    "edition": 42,
+    "seller_fee_basis_points": 1000,
+    "fee_recipient": "0x49063aA48A3F0cE8e76fd92930Ae872500d45C2b",
+    "image": "image.png",
+    "external_link": "https://scholten.rocks/"
+  },
+  {
+    "name": "CrispyFriesNFT #43",
+    "description": "Crunchy Fries is a collection of 10,000 randomly generated NFTs. Deep-fried in fat with the utmost care. Not oven fries.",
+    "edition": 43,
+    "seller_fee_basis_points": 1000,
+    "fee_recipient": "0x49063aA48A3F0cE8e76fd92930Ae872500d45C2b",
+    "image": "image.png",
+    "external_link": "https://scholten.rocks/"
+  },
+  {
+    "name": "CrispyFriesNFT #44",
+    "description": "Crunchy Fries is a collection of 10,000 randomly generated NFTs. Deep-fried in fat with the utmost care. Not oven fries.",
+    "edition": 44,
+    "seller_fee_basis_points": 1000,
+    "fee_recipient": "0x49063aA48A3F0cE8e76fd92930Ae872500d45C2b",
+    "image": "image.png",
+    "external_link": "https://scholten.rocks/"
+  },
+  {
+    "name": "CrispyFriesNFT #45",
+    "description": "Crunchy Fries is a collection of 10,000 randomly generated NFTs. Deep-fried in fat with the utmost care. Not oven fries.",
+    "edition": 45,
+    "seller_fee_basis_points": 1000,
+    "fee_recipient": "0x49063aA48A3F0cE8e76fd92930Ae872500d45C2b",
+    "image": "image.png",
+    "external_link": "https://scholten.rocks/"
+  },
+  {
+    "name": "CrispyFriesNFT #46",
+    "description": "Crunchy Fries is a collection of 10,000 randomly generated NFTs. Deep-fried in fat with the utmost care. Not oven fries.",
+    "edition": 46,
+    "seller_fee_basis_points": 1000,
+    "fee_recipient": "0x49063aA48A3F0cE8e76fd92930Ae872500d45C2b",
+    "image": "image.png",
+    "external_link": "https://scholten.rocks/"
+  },
+  {
+    "name": "CrispyFriesNFT #47",
+    "description": "Crunchy Fries is a collection of 10,000 randomly generated NFTs. Deep-fried in fat with the utmost care. Not oven fries.",
+    "edition": 47,
+    "seller_fee_basis_points": 1000,
+    "fee_recipient": "0x49063aA48A3F0cE8e76fd92930Ae872500d45C2b",
+    "image": "image.png",
+    "external_link": "https://scholten.rocks/"
+  },
+  {
+    "name": "CrispyFriesNFT #48",
+    "description": "Crunchy Fries is a collection of 10,000 randomly generated NFTs. Deep-fried in fat with the utmost care. Not oven fries.",
+    "edition": 48,
+    "seller_fee_basis_points": 1000,
+    "fee_recipient": "0x49063aA48A3F0cE8e76fd92930Ae872500d45C2b",
+    "image": "image.png",
+    "external_link": "https://scholten.rocks/"
+  },
+  {
+    "name": "CrispyFriesNFT #49",
+    "description": "Crunchy Fries is a collection of 10,000 randomly generated NFTs. Deep-fried in fat with the utmost care. Not oven fries.",
+    "edition": 49,
+    "seller_fee_basis_points": 1000,
+    "fee_recipient": "0x49063aA48A3F0cE8e76fd92930Ae872500d45C2b",
+    "image": "image.png",
+    "external_link": "https://scholten.rocks/"
+  },
+  {
+    "name": "CrispyFriesNFT #50",
+    "description": "Crunchy Fries is a collection of 10,000 randomly generated NFTs. Deep-fried in fat with the utmost care. Not oven fries.",
+    "edition": 50,
+    "seller_fee_basis_points": 1000,
+    "fee_recipient": "0x49063aA48A3F0cE8e76fd92930Ae872500d45C2b",
+    "image": "image.png",
+    "external_link": "https://scholten.rocks/"
+  }
+]
