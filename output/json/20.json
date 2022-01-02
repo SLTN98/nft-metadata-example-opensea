@@ -1,9 +1,46 @@
 {
   "name": "CrispyFriesNFT #20",
   "description": "Crunchy Fries is a collection of 10,000 randomly generated NFTs. Deep-fried in fat with the utmost care. Not oven fries.",
+  "image": "ipfs://<YourImageUrl>/20.png",
+  "dna": "5335605014f50796808dc8cdaafd5341d2cc7578",
   "edition": 20,
-  "seller_fee_basis_points": 1000,
-  "fee_recipient": "0x49063aA48A3F0cE8e76fd92930Ae872500d45C2b",
-  "image": "image.png",
-  "external_link": "https://scholten.rocks/"
+  "date": 1641160520174,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Fries",
+      "value": "Normal Fries"
+    },
+    {
+      "trait_type": "Packaging Color",
+      "value": "Light Red"
+    },
+    {
+      "trait_type": "Outline",
+      "value": "Black Outline"
+    },
+    {
+      "trait_type": "Arms",
+      "value": "Hola"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Normal Legs"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Accessoire",
+      "value": "Tie"
+    }
+  ]
 }
