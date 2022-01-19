@@ -1,7 +1,7 @@
 {
   "name": "CrispyFriesNFT #1",
   "description": "Crunchy Fries is a collection of 10,000 randomly generated NFTs. Deep-fried in fat with the utmost care. Not oven fries.",
-  "image": "https://raw.githubusercontent.com/SLTN98/nft-metadata-example-opensea/main/output/images/1.png",
+  "image": "ipfs://<YourImageUrl>/1.png",
   "dna": "92d809f9f78c109732e3d75dc4ecd5f6ebbac0de",
   "edition": 1,
   "date": 1641160479620,
